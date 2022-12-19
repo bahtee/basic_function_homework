@@ -1,5 +1,5 @@
 # Create a function called main.
 def main():
-    value = "Hello world"
+    value = "Hello World"
     return value
 # Return the value "Hello World"
